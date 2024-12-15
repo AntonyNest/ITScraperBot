@@ -1,3 +1,5 @@
+### Основний файл для запуску FastAPI
+
 from fastapi import FastAPI
 
 app = FastAPI()
