@@ -25,7 +25,7 @@ This project is based backend combined with a Telegram bot to provide users with
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/AntonyNest/fastWorkScraper.git
+git clone [https://github.com/AntonyNest/fastWorkScraper](https://github.com/AntonyNest/ITScraperBot/).git
 2. install dependencies:
 - pip install -r requirements.txt
 3. Start the FastAPI server:
